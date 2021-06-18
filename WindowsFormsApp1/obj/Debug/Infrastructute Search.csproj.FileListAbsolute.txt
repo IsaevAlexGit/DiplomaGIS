@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Debug\Infrastructute Search.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Debug\InfrastructuteSearch.MainMap.resources
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Debug\InfrastructuteSearch.SearchView.resources
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Debug\InfrastructuteSearch.SelectedLocationInfo.resources
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Debug\Infrastructute Search.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Debug\Infrastructute Search.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Debug\Infrastructute Search.csproj.CopyComplete

@@ -1,0 +1,86 @@
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\GMap.NET.Core.dll
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\Infrastructute Search.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\InfrastructuteSearch.MainMap.resources
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\InfrastructuteSearch.SearchView.resources
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\InfrastructuteSearch.SelectedLocationInfo.resources
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.CopyComplete
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\GMap.NET.Core.dll
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\Infrastructute Search.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\InfrastructuteSearch.MainMap.resources
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\InfrastructuteSearch.SelectedLocationInfo.resources
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.CopyComplete
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\GMap.NET.Core.dll
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\Infrastructute Search.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\InfrastructuteSearch.MainMap.resources
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\InfrastructuteSearch.SearchView.resources
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\InfrastructuteSearch.SelectedLocationInfo.resources
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.CopyComplete
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Проект №2\Infrastructute Search v 1.0\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Infrastructute Search v 1.1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\Infrastructute Search v 1.1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Infrastructute Search v 1.1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Infrastructute Search v 1.1\WindowsFormsApp1\bin\Release\GMap.NET.Core.dll
+C:\Users\PC\Desktop\Infrastructute Search v 1.1\WindowsFormsApp1\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\PC\Desktop\Infrastructute Search v 1.1\WindowsFormsApp1\obj\Release\Infrastructute Search.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Infrastructute Search v 1.1\WindowsFormsApp1\obj\Release\InfrastructuteSearch.MainMap.resources
+C:\Users\PC\Desktop\Infrastructute Search v 1.1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\Infrastructute Search v 1.1\WindowsFormsApp1\obj\Release\InfrastructuteSearch.SelectedLocationInfo.resources
+C:\Users\PC\Desktop\Infrastructute Search v 1.1\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Infrastructute Search v 1.1\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Infrastructute Search v 1.1\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.CopyComplete
+C:\Users\PC\Desktop\Infrastructute Search v 1.1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Infrastructute Search v 1.1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Color Taganrog v 1.1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\Color Taganrog v 1.1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Color Taganrog v 1.1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Color Taganrog v 1.1\WindowsFormsApp1\bin\Release\GMap.NET.Core.dll
+C:\Users\PC\Desktop\Color Taganrog v 1.1\WindowsFormsApp1\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\PC\Desktop\Color Taganrog v 1.1\WindowsFormsApp1\obj\Release\Infrastructute Search.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Color Taganrog v 1.1\WindowsFormsApp1\obj\Release\InfrastructuteSearch.MainMap.resources
+C:\Users\PC\Desktop\Color Taganrog v 1.1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\Color Taganrog v 1.1\WindowsFormsApp1\obj\Release\InfrastructuteSearch.SelectedLocationInfo.resources
+C:\Users\PC\Desktop\Color Taganrog v 1.1\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Color Taganrog v 1.1\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Color Taganrog v 1.1\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.CopyComplete
+C:\Users\PC\Desktop\Color Taganrog v 1.1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Color Taganrog v 1.1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Оптимум. Аптеки\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\Оптимум. Аптеки\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Оптимум. Аптеки\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Оптимум. Аптеки\WindowsFormsApp1\bin\Release\GMap.NET.Core.dll
+C:\Users\PC\Desktop\Оптимум. Аптеки\WindowsFormsApp1\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\PC\Desktop\Оптимум. Аптеки\WindowsFormsApp1\obj\Release\Infrastructute Search.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Оптимум. Аптеки\WindowsFormsApp1\obj\Release\InfrastructuteSearch.MainMap.resources
+C:\Users\PC\Desktop\Оптимум. Аптеки\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\Оптимум. Аптеки\WindowsFormsApp1\obj\Release\InfrastructuteSearch.SelectedLocationInfo.resources
+C:\Users\PC\Desktop\Оптимум. Аптеки\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Оптимум. Аптеки\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Оптимум. Аптеки\WindowsFormsApp1\obj\Release\Infrastructute Search.csproj.CopyComplete
+C:\Users\PC\Desktop\Оптимум. Аптеки\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Оптимум. Аптеки\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
